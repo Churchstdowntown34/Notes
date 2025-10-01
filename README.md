@@ -5,3 +5,4 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 - [gblearn](https://my.gblearn.com/student)
 - [Course Notes](comp1238.md)
+- [Linkedin](www.linkedin.com/in/naomi-littlejohn-1b3a131b5)
